@@ -1,7 +1,6 @@
 # RoboShop Microservices Application using Docker Compose
 
 This project sets up the **RoboShop microservices application** using Docker Compose. It includes multiple services like frontend, catalogue, user, cart, shipping, payment, and supporting databases/message brokers.
-
 ---
 
 # Architecture Overview
