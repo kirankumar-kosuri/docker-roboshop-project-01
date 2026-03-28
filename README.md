@@ -8,7 +8,7 @@ This project sets up the **RoboShop microservices application** using Docker Com
 
 The application follows a microservices architecture with the following components:
 
-# 🧩 Services Included
+#  Services Included
 
 * **Frontend** – User interface (Nginx)
 * **Catalogue** – Product catalog service
